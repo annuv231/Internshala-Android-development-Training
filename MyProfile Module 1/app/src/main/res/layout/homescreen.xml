@@ -58,11 +58,13 @@
          <Button
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
+                 android:id="@+id/eductationId"
                  android:text="Education"
                  android:textColor="#FFFFFF"/>
          <Button
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
+                 android:id="@+id/workexpId"
                  android:text="Work Experience"
                  android:textColor="#FFFFFF"/>
       </LinearLayout>
